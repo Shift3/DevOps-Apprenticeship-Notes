@@ -1,5 +1,7 @@
 # DevOps-Apprenticeship-Notes
 
+* take a look at this Documents  about https and ssh-- https://ourtechroom.com/tech/https-vs-ssh-in-git/
+https://www.howtogeek.com/devops/should-you-use-https-or-ssh-for-git/
 
 ## Contributing to this Repository
 
