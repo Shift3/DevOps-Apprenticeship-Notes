@@ -1,5 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 ## Contributing to this Repository
 
