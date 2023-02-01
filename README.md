@@ -1,10 +1,9 @@
 # DevOps-Apprenticeship-Notes
 
 
-* take a look at this youtube videos on terraform here:t -https://youtu.be/l5k1ai_GBDE  - https://youtu.be/gxPykhPxRW0
+* take a look at this youtube videos on terraform here:-https://youtu.be/l5k1ai_GBDE  - https://youtu.be/gxPykhPxRW0
 https://youtu.be/SLB_c_ayRMo
-
-
+.
 
 
 ## Contributing to this Repository
