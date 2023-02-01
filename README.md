@@ -1,5 +1,15 @@
 # DevOps-Apprenticeship-Notes
 
+github
+Quickstart
+https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+Pull request
+https://github.com/Connie818/DevOps-Apprenticeship-Notes.git
+
+Terraform tutorial
+From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
+Freecodecamp: https://www.youtube.com/watch?v=SLB_c_ayRMo
+8 Best Pratices: https://www.youtube.com/watch?v=gxPykhPxRW0
 
 ## Contributing to this Repository
 
