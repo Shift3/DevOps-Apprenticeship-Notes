@@ -1,6 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
-# This is second PR
+# This is second PR practice
 git
 markdown cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -8,7 +8,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 cloing with 
 https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
 
-# This is the third PR
+# This is the third PR practice
 https://stackoverflow.com/questions/3959924/whats-the-difference-between-git-clone-mirror-and-git-clone-bare
 
 
