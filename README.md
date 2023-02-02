@@ -1,5 +1,5 @@
 # DevOps-Apprenticeship-Notes
-
+*https://digitalcloud.training/auto-scaling-and-elastic-load-balancing/ all about loadbalancing in aws
 
 ## Contributing to this Repository
 
