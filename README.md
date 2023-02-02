@@ -1,5 +1,7 @@
 # DevOps-Apprenticeship-Notes
 
+* take a vdio at our bitwise industries standards and practices here  https://www.youtube.com/watch?v=YcJ9IeukJL8: https://www.youtube.com/watch?v=SLB_c_ayRMo: https://www.youtube.com/watch?v=gxPykhP
+..
 
 ## Contributing to this Repository
 
