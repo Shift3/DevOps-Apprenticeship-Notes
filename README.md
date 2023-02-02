@@ -1,6 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
-
+*https://www.goal.com/en-us/lists/all-completed-chelsea-transfers-so-far-in-2022-23-listed/blt7466f58414065ae4 It's help full
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
