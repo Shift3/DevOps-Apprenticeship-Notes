@@ -18,6 +18,11 @@ https://www.youtube.com/watch?v=gx311756mmmkdkdj
 
 
 
+Important git commands to know with example and explanation https://dzone.com/articles/top-20-git-commands-with-examples
+https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf
+
+
+
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
 
