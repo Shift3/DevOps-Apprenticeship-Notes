@@ -1,5 +1,6 @@
 # DevOps-Apprenticeship-Notes
 
+Good stuffs :https://en.wikipedia.org/wiki/Principle_of_least_privilege
 
 ## Contributing to this Repository
 
