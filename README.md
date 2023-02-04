@@ -1,7 +1,7 @@
 # DevOps-Apprenticeship-Notes
 
 Good stuffs :https://en.wikipedia.org/wiki/Principle_of_least_privilege
-
+Good afternoon evryone 
 ## Contributing to this Repository
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
