@@ -52,6 +52,8 @@ I hope you find this helpful! :)
 1. [Basic Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 2. [Markdown Cheats](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 
+github Quickstart https://docs.github.com/en/get-started/quickstart/contributing-to-projects Pull request https://github.com/Connie818/DevOps-Apprenticeship-Notes.git
+
 
 ##### This is my 3rd pull request... 
 
