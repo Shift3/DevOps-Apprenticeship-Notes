@@ -1,4 +1,6 @@
 # DevOps-Apprenticeship-Notes
+## Emotional Intelligence
+Emotional intelligence at work: Why IQ isn't everything: https://youtu.be/7ngIFlmRRPQ
 
 ##  Terraform Video Resources
 * From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
@@ -11,6 +13,14 @@ https://www.youtube.com/watch?v=YcJ9IeukJL8:
 https://www.youtube.com/watch?v=SLB_c_ayRMo: 
 https://www.youtube.com/watch?v=gx311756mmmkdkdj
 
+* Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
+
+* adding some tfswitch vedio. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
+
+
+  
+Terraform Cheat Sheet 
+* https://www.google.com/search?q=exampro+terraform&ei=Nn_IY5GcIoe70PEPzu62qAQ&oq=exam[…]wAHgAgAGTAYgBxwKSAQMyLjGYAQCgAQHIAQPAAQE&sclient=gws-wiz-serp
 
 ## Contributing to this Repository
 
@@ -21,7 +31,15 @@ https://www.youtube.com/watch?v=gx311756mmmkdkdj
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
 
+
 #### [Click here](https://github.com/octocat/Spoon-Knife) This repository is meant to provide an example for forking a repository on GitHub.
+=======
+
+Important git commands to know with example and explanation 
+# [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
+# [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
+
+
 
 ## Explain Shell Link 
 
