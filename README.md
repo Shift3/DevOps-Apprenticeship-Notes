@@ -27,7 +27,3 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addres
 # HTTPs vs SSH
 https://ourtechroom.com/tech/https-vs-ssh-in-git/
 
-# Terraform tutorial
-From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
-Freecodecamp: https://www.youtube.com/watch?v=SLB_c_ayRMo
-8 Best Pratices: https://www.youtube.com/watch?v=gxPykhPxRW0
