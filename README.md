@@ -21,7 +21,6 @@
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
-## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
 
 
 ## Markdown on Github
@@ -38,6 +37,7 @@
 - [From Hashicorp](https://www.youtube.com/watch?v=YcJ9IeukJL8)
 - [Freecodecamp](https://www.youtube.com/watch?v=SLB_c_ayRMo)
 - [8 Best Pratices](https://www.youtube.com/watch?v=gxPykhPxRW0)
+- [Building Dev Environment ](https://youtu.be/iRaai1IBlB0)
 
 ### 2. Docs
 - [Cheat Sheet](https://spacelift.io/blog/terraform-commands-cheat-sheet)
