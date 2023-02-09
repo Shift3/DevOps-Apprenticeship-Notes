@@ -1,7 +1,22 @@
 # DevOps-Apprenticeship-Notes
+* Here is the docker post-install instructions that reduce the number of sudo commands: https://docs.docker.com/engine/install/linux-postinstall/
+*  adding some tfswitch video. Here is the tfswitch video link: https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing
+##  Terraform Video Resources
+* From Hashicorp: https://www.youtube.com/watch?v=YcJ9IeukJL8
+* Freecodecamp: https://www.youtube.com/watch?v=SLB_c_ayRMo
+* 8 Best Pratices: https://www.youtube.com/watch?v=gxPykhPxRW0
+
+
+* terraform videos 
+https://www.youtube.com/watch?v=YcJ9IeukJL8: 
+https://www.youtube.com/watch?v=SLB_c_ayRMo: 
+https://www.youtube.com/watch?v=gx311756mmmkdkdj
+
+
 
 
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
+
 
 ## Contributing to this Repository
 
