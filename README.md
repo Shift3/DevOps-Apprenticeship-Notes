@@ -20,6 +20,9 @@
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
+### Resolving merge conflict 
+
+- [resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
 
 ## Markdown on Github
 
