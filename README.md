@@ -1,10 +1,15 @@
 # DevOps-Apprenticeship-Notes
 
 
+* Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
 ## Contributing to this Repository
 
+* Error: Permission denied (publickey info
+https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey
+
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
+
 
 
 
@@ -20,9 +25,13 @@
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
+
 ### Resolving merge conflict 
 
-- [resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+- [Resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+=======
+## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
+
 
 ## Markdown on Github
 
