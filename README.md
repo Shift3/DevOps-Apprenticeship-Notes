@@ -1,12 +1,14 @@
 # DevOps-Apprenticeship-Notes
 
 
+
+## Contributing to this Repository
+
+
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
 
 ## Contributing to this Repository
 
-* Error: Permission denied (publickey info
-https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey
 
 #### You are expected to contribute _something_ to our processes. You can do this in many different ways, such as addng documentation that helped you out, writing up a markdown sheet for this repository on a topic you are passionate about, leading a workshop, or posting discussion topics in Bitwise's #devops-apprenticeship-attachment channel.
 
@@ -14,6 +16,14 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 
 
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
+
+
+ #### [A practical Docker](https://www.udemy.com/course/automate/?src=sac&kw=automate)
+
+#### [take world with nana](https://www.techworld-with-nana.com/)
+
+#### [Terraform video](https://www.youtube.com/watch?v=YcJ9IeukJL8:)
+#### [Terraform course-Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo:)
 
 *All combined notes, links and documents are listed below:
 
@@ -80,7 +90,5 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
-  
-
-
+ 
 
