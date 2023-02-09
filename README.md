@@ -17,5 +17,4 @@
 
 #### [Terraform video](https://www.youtube.com/watch?v=YcJ9IeukJL8:)
 #### [Terraform course-Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo:)
-#### [best practices that will improve your TF workflow](https://www.youtube.com/watch?v=gx311756mmmkdkdj)
 
