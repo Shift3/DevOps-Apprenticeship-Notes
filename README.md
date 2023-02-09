@@ -29,7 +29,7 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 ### Resolving merge conflict 
 
 - [Resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
-=======
+
 ## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
 
 
