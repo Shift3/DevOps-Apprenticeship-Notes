@@ -39,6 +39,10 @@ https://youtu.be/kqtD5dpn9C8
 
 ## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
 
+## [Learn Infrastructure as Code](https://youtu.be/7xngnjfIlK4)
+
+
+
 eefe0f61787d3a0bdda3c9aebfd7427223eadd41
 
 ## Markdown on Github
