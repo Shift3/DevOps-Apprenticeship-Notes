@@ -12,8 +12,10 @@
 
 *All combined notes, links and documents are listed below:
 
-
+practicing 
 ## Git Commands
+
+### https://youtu.be/kqtD5dpn9C8
 
 ### 1. Docs
 - [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
@@ -23,6 +25,8 @@
 ### Resolving merge conflict 
 
 - [resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+### pyton for begginers 
+https://youtu.be/kqtD5dpn9C8
 
 ## Markdown on Github
 
