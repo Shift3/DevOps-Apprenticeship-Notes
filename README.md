@@ -41,7 +41,7 @@ https://youtu.be/kqtD5dpn9C8
 
 ## [Learn Infrastructure as Code](https://youtu.be/7xngnjfIlK4)
 
-
+## [learn python](https://youtu.be/kqtD5dpn9C8
 
 eefe0f61787d3a0bdda3c9aebfd7427223eadd41
 
