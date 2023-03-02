@@ -18,6 +18,9 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 
 *All combined notes, links and documents are listed below:
 
+ds-6-useful-links
+practicing 
+
 
 ## Useful documents, DevOps resource link and Git Cheat sheet
 
@@ -39,20 +42,41 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 
 
 
+ development
 ## Git Commands
+
+### https://youtu.be/kqtD5dpn9C8
 
 ### 1. Docs
 - [Article](https://dzone.com/articles/top-20-git-commands-with-examples)
 
 - [Cheat-sheet](https://phoenixnap.com/kb/wp-content/uploads/2021/11/git-commands-cheat-sheet-by-pnap-v2.pdf)
 
+
+### Resolving merge conflict 
+
+ HEAD
+- [resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+### pyton for begginers 
+https://youtu.be/kqtD5dpn9C8
+
+- [Resolving-a-merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+
 ## [Learn terraform ](https://youtu.be/iRaai1IBlB0)
 ## Resolving merge conflict on pull request 
    - [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
 
+ds-6-useful-links
+## [Learn Infrastructure as Code](https://youtu.be/7xngnjfIlK4)
+
+## [learn python](https://youtu.be/kqtD5dpn9C8
+
+eefe0f61787d3a0bdda3c9aebfd7427223eadd41
+
 ## useful terraform cheat sheet 
 - [terraform-cheat-sheet2](https://k21academy.com/terraform-iac/terraform-cheat-sheet/)
+development
 
 ## Markdown on Github
 
@@ -60,7 +84,7 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 - [Basic Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Markdown Cheats](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#videos)
 
-
+## https://youtu.be/kqtD5dpn9C8
 
 ##  Terraform 
 
