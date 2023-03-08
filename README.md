@@ -1,5 +1,10 @@
 # DevOps-Apprenticeship-Notes
 
+* CodeAcademy: Learn Git & GitHub https://www.codecademy.com/learn/learn-git
+
+* CodeAcademy: Learn the Command Line https://www.codecademy.com/learn/learn-the-command-line 
+
+* Automate the Boring Stuff https://automatetheboringstuff.com/
 
 
 * Take a look at our Bitwise Industries Standards and Practices for example markdown and best practices: https://github.com/Shift3/standards-and-practices
