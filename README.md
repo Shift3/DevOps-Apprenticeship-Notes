@@ -92,12 +92,6 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 - [Debugging Video](https://drive.google.com/file/d/14xNJzpCajLEVzcGL5h3twfIyD-hRhkGc/view?usp=sharing)
 
 
-## Emotional Intelligence training
-
-- [Emotional intelligence at work: Why IQ isn't everything](https://youtu.be/7ngIFlmRRPQ)
-
-- [Ted talk on The Secret to High Performance and Fulfilment](https://youtu.be/HTfYv3IEOqM) 
-
 ## Word Press
 
 ### 1. Video Resources
