@@ -83,6 +83,11 @@
 ### 1. Video Resources
 - [What is WordPress](https://www.youtube.com/watch?v=c7kxhwxific)
 
+## DNS 
+
+## General Links
+- [A Record](https://support.dnsimple.com/articles/a-record/)
+
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
   
