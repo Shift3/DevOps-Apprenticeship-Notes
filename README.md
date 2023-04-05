@@ -23,7 +23,7 @@ https://github.com/Connie818/DevOps-Apprenticeship-Notes.git
 markdown cheatsheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-# cloing with 
+# Cloning With
 https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
 
 https://stackoverflow.com/questions/3959924/whats-the-difference-between-git-clone-mirror-and-git-clone-bare
