@@ -83,10 +83,13 @@
 ### 1. Video Resources
 - [What is WordPress](https://www.youtube.com/watch?v=c7kxhwxific)
 
-## DNS 
+## DNS (Domain Name System)
 
 ## General Links
 - [A Record](https://support.dnsimple.com/articles/a-record/)
+- [CNAME or Canonical Name](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/#:~:text=The%20CNAME%20record%20only%20points,to%20example.com's%20IP%20address.)
+
+
 
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
