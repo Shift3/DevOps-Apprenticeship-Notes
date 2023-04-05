@@ -89,6 +89,8 @@
 - [A Record](https://support.dnsimple.com/articles/a-record/)
 - [CNAME or Canonical Name Record](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/#:~:text=The%20CNAME%20record%20only%20points,to%20example.com's%20IP%20address.)
 - [TTL or Time to Live](https://www.techtarget.com/searchnetworking/definition/time-to-live)
+- [DNS Validation with AWS Certificate Manager](https://aws.amazon.com/blogs/security/easier-certificate-validation-using-dns-with-aws-certificate-manager/)
+
 
 
 
