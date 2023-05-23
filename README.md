@@ -101,5 +101,9 @@ https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-d
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
   
+## JSON 
+- [Freecode Camp Tutorial](https://www.youtube.com/watch?v=GpOO5iKzOmY)
+- [Freecode Camp Further Reading] (https://www.freecodecamp.org/news/what-is-json-a-json-file-example/)
+- [JSON in the Command Line](https://linuxhint.com/validate-json-files-from-command-line-linux/)
+- [JSON Viewer for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 
-#### PULL REQUESTS FOR BRAGGING RIGHTS 
