@@ -96,6 +96,13 @@ Terraform video link: https://www.youtube.com/watch?v=YcJ9IeukJL8
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
   
+
+## JSON 
+- [Freecode Camp Tutorial](https://www.youtube.com/watch?v=GpOO5iKzOmY)
+- [Freecode Camp Further Reading] (https://www.freecodecamp.org/news/what-is-json-a-json-file-example/)
+- [JSON in the Command Line](https://linuxhint.com/validate-json-files-from-command-line-linux/)
+- [JSON Viewer for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+
 #### [ERROR: Permission Denied ssh error](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey)
 
 #### [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
@@ -109,3 +116,4 @@ Terraform video link: https://www.youtube.com/watch?v=YcJ9IeukJL8
 #### [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
 #### [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+
