@@ -97,14 +97,13 @@
 - [JSON in the Command Line](https://linuxhint.com/validate-json-files-from-command-line-linux/)
 - [JSON Viewer for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 
+## Miscellaneous Links
 
-#### [DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
+-[DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
 
-#### [CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+-[CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
-#### [Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
+-[Chrome-Extension for job seeker](https://www.formpl.us/blog/job-chrome-extensions#:~:text=Formplus%20is%20a%20great%20tool,your%20responses%20for%20later%20use)
 
-#### [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
-
-#### [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+-[Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
