@@ -46,25 +46,6 @@
 
 -[merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
-## Git/Github Helpful Links
-
--[Github Documentation](https://docs.github.com/en/github)
-
--[Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
-
--[Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
-
--[Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
-
--[Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
-
--[CodeAcademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
-
--[ERROR: Permission Denied ssh error](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey)
-
--[merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
-
-
 ## Git Commands
 
 ### 1. Docs
