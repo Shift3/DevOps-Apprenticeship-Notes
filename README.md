@@ -23,17 +23,22 @@
 ![Alt text](https://i.imgur.com/bh8rIQq.jpg)
 
 
-#### [Github Documentation](https://docs.github.com/en/github)
+-[Github Documentation](https://docs.github.com/en/github)
 
-#### [Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
+-[Git and Github tutorials on Codecademy](https://www.codecademy.com/learn/learn-git)
 
-#### [Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
+-[Git and Github tutorials on Udemy](https://www.udemy.com/topic/git/)
 
-#### [Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+-[Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 
-#### [Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
+-[Youtube tutorials on Git and Github](https://www.youtube.com/results?search_query=git+github+tutorial.)
 
-#### [CodeAcademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+-[CodeAcademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+
+-[ERROR: Permission Denied ssh error](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey)
+
+-[merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
+
 
 ## Git Commands
 
@@ -92,9 +97,6 @@
 - [JSON in the Command Line](https://linuxhint.com/validate-json-files-from-command-line-linux/)
 - [JSON Viewer for Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 
-#### [ERROR: Permission Denied ssh error](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey)
-
-#### [merge-conflict-using-the-command-line](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
 #### [DevOps roadmap and resource link](https://github.com/annfelix/DEVOPS-WORLD)
 
